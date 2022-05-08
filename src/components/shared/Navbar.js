@@ -18,7 +18,7 @@ const Navbar = () => {
             </img>
             <div className="navbar__search">
             <SearchIcon />
-            <input type="text"/>
+            <input type="text" />
             </div>
           </div>
 
